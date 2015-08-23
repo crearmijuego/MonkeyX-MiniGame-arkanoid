@@ -2,8 +2,8 @@
 ##### game.build/glfw/CONFIG.MONKEY
 ##### game.build/glfw3/CONFIG.MONKEY
 
-#GLFW_WINDOW_WIDTH=500 </br>
-#GLFW_WINDOW_HEIGHT=500
+GLFW_WINDOW_WIDTH=500 </br>
+GLFW_WINDOW_HEIGHT=500
 
 ##### game.build/html5/MonkeyGame.html
 
